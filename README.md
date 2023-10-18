@@ -1,3 +1,3 @@
                                                 TITLE : CUSTOM PRINTF FUNCTION
-Did some doings, More doings and more doings!
+overview :- **creating multiple function to create a printf func in c lang**
                                     
